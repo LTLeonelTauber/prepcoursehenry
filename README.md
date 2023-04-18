@@ -1,2 +1,2 @@
 # prepcoursehenry
-este es un repositorio de prueba para el prepcourse de henry
+leonel tauber es una prueba de como clonar un repositorio desde github a mi pc
